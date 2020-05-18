@@ -1,7 +1,7 @@
 # My-Game-Design-Ideas
 My Game Design Ideas
 
-# [Food Delivery][Food_Delivery]
+# [Food Delivery]
 * Actors
     * Motocycle
     * Restaurants
