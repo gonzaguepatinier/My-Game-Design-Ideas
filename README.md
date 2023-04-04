@@ -9,3 +9,4 @@ My Game Design Ideas
 
 # [Museum Quizz]
 * Questionnaire
+* Pgoto hunt
