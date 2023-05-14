@@ -9,4 +9,9 @@ My Game Design Ideas
 
 # [Museum Quizz]
 * Questionnaire
+<<<<<<< Updated upstream
 * Pgoto hunt
+=======
+* Photo Safari
+
+>>>>>>> Stashed changes
