@@ -10,8 +10,16 @@ My Game Design Ideas
 # [Museum Quizz]
 * Questionnaire
 <<<<<<< Updated upstream
-* Pgoto hunt
+* Photo hunt
 =======
 * Photo Safari
 
 >>>>>>> Stashed changes
+
+# [Experience Agency]
+* Build an experience travel
+* "The Game" type
+* To be used as workshop
+* key learning points
+
+
