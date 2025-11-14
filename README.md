@@ -22,4 +22,11 @@ My Game Design Ideas
 * To be used as workshop
 * key learning points
 
+# [Beer Time in Thailand]
+* Game to play on the time you can buy or drink a beer in Thailand
+* Which days?
+* Which time?
+* Which Location?
+* Possible fine?
+
 
